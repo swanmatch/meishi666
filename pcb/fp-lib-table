@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/foostan/kbd.pretty)(options "")(descr ""))
+  (lib (name kikad_mods)(type KiCad)(uri ${KIPRJMOD}/kikad_mods)(options "")(descr ""))
+)
